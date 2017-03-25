@@ -54,3 +54,4 @@ Temporary Items
 
 #Bower Components
 /bower_components/
+/public/vendor/
